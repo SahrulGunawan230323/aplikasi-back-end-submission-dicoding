@@ -1,0 +1,3 @@
+const addNoteHandler = (request, h) => {
+ 
+};
